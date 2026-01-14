@@ -17,6 +17,7 @@ defineProps({
   justify-content: space-between;
   align-items: center;
   background: #f9f9f9;
+  color: #999;
   border: 1px solid #ddd;
   padding: 8px 12px;
   margin-bottom: 8px;
